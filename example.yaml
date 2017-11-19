@@ -1,0 +1,7 @@
+obj:
+  num: 123
+  arr:
+    - one
+    - two
+    - three
+  str: "onetwothree"

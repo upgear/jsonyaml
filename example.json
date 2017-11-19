@@ -1,0 +1,11 @@
+{
+  "obj": {
+    "arr": [
+      "one",
+      "two",
+      "three"
+    ],
+    "num": 123,
+    "str": "onetwothree"
+  }
+}
